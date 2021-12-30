@@ -4,19 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>edu.msstate.cse</groupId>
+    <groupId>java.spring</groupId>
     <artifactId>stock-tracker</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <organization>
-        <name>Mississippi State University</name>
-        <url>http://www.cse.msstate.edu/</url>
-    </organization>
-
-    <scm>
-        <developerConnection>Anh Do</developerConnection>
-        <url>https://github.com/aqd14/stock-tracker</url>
-    </scm>
 
     <build>
         <sourceDirectory>${project.basedir}/src</sourceDirectory>
